@@ -1,8 +1,4 @@
 //
-//  Project 2: Search Engine
-//  Author: Tyler Strach using CLion
-//  Class: CS 251 Fall 2022
-//
 //  Description: This program creates a simplified search engine using a reverse index system, where the keys are the
 //  cleaned words in a website, and the values are all the websites where that specific word exists. All the words
 //  are "cleaned" meaning all special characters preceding and following are removed and all letters are converted to
